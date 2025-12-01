@@ -28,7 +28,7 @@ rofi
 ##
 
 xfce4-terminal
-sakura
+#sakura
 
 
 
