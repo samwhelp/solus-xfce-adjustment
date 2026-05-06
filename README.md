@@ -10,8 +10,8 @@
 | Link | GitHub |
 | ---- | ------ |
 | [Solus Xfce Adjustment](https://samwhelp.github.io/solus-xfce-adjustment/) | [GitHub](https://github.com/samwhelp/solus-xfce-adjustment) |
-| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
 | [Solus Xfce Note](https://samwhelp.github.io/note-about-solus-xfce/) | [GitHub](https://github.com/samwhelp/note-about-solus-xfce) |
+| [Solus Adjustment](https://samwhelp.github.io/solus-adjustment/) | [GitHub](https://github.com/samwhelp/solus-adjustment) |
 
 
 
